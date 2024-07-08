@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="IFTM,Instituto,Uberlândia">
+    <meta name="author" content="José Antônio Ranieri Neto">
+    <meta name="description" content="Paginá sobre o IFTM">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Layout Utilizado HTML5</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <a id="topo"></a>
+
+        <h1>Instituto Federal do Triângulo Mineiro</h1>
+        <nav>
+            <ul>
+                <li><a href="">Institucional</a></li>
+                <li><a href="">Campi</a></li>
+                <li><a href="">Sobre nós</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+
+            <h2>Uberlândia Centro</h2>
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut pariatur vero praesentium, ipsa itaque ex dolorum sunt possimus magni molestiae exercitationem eius animi aspernatur? Praesentium nostrum expedita neque inventore harum.
+            Ad minus saepe id placeat distinctio excepturi, asperiores quo necessitatibus. Explicabo, error vero provident accusamus, aperiam natus voluptatum nesciunt soluta nihil in velit unde dolores fugit magni eligendi omnis quaerat?
+            Beatae ut commodi reprehenderit quod provident culpa inventore repellat dolores amet doloremque eveniet laborum, distinctio tenetur dicta sint ipsum numquam vel magnam qui libero, nemo harum! Eum dolores dolore hic!
+            Officia cupiditate, laudantium illo dolores dicta laborum iusto perspiciatis sequi inventore similique provident repellendus aperiam assumenda recusandae numquam dignissimos aspernatur rem praesentium? Mollitia, nisi corrupti magnam corporis amet consectetur ipsa.</p>
+
+            <img src="iftm.jpg" alt="">
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat sint labore assumenda rerum tempora error necessitatibus mollitia vero quo exercitationem. Dolorum aperiam cupiditate ut. Esse blanditiis accusantium ex illum culpa!
+            Totam assumenda perspiciatis quasi quos doloremque vitae optio, eaque vero cum tempore delectus excepturi molestias possimus ducimus pariatur deserunt quis commodi cupiditate fuga placeat, molestiae qui. Distinctio molestias saepe pariatur.
+            Vitae laudantium nihil iste corrupti obcaecati provident! Iure animi itaque odit error ipsa eligendi voluptatem rem ducimus eum, repellendus repellat quae pariatur est assumenda eos, exercitationem voluptatibus cumque quam consequuntur.
+            Aliquam, commodi numquam perferendis dignissimos suscipit non ipsum eos et? Animi officia voluptatum in neque sint assumenda sequi placeat aliquid, nulla itaque cum! Voluptatibus corporis corrupti ea rem, odio officia?
+            Explicabo, recusandae expedita! Voluptatum rerum vero ratione harum nisi, minus debitis sed maiores saepe error provident doloremque non exercitationem voluptate odio voluptatem est nobis iusto omnis eius ducimus illo tenetur!</p>
+
+            <ul>
+                <li>Ensino</li>
+                <li>Pesquisa</li>
+                <li>Extensão</li>
+                <li>Outras Atividades</li>
+            </ul>
+        </section>
+
+        <section>
+            <article>
+                <h2>Ituiutaba</h2>
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In, voluptates reiciendis rerum voluptatem consequatur neque iusto necessitatibus provident iste totam optio laborum officiis. Eos consectetur quas sequi, optio minima mollitia?
+                Vitae adipisci hic ab necessitatibus! Voluptatem perferendis iure culpa dicta doloribus quos mollitia natus aspernatur illum ipsam neque quae sunt, qui obcaecati corrupti? Rem aliquam voluptatum perferendis, dolores eos culpa!
+                Enim quasi voluptatum ipsa inventore! Eveniet necessitatibus porro tempora officia cumque recusandae consectetur officiis totam fugiat similique aliquam, laudantium, vel explicabo impedit iusto, cupiditate architecto non dolores fuga a. Eveniet.
+                Cum accusamus ut nisi? Ratione provident vel similique sint dolorum voluptates veritatis quaerat tenetur vitae possimus, molestiae cupiditate non deserunt labore distinctio, aliquam quam odit quas error iste quisquam! Possimus.</p>
+                
+                <img src="iftm2.jpg" alt="">
+
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio aut dignissimos placeat autem quaerat obcaecati porro incidunt esse eum nulla culpa error ut, illum harum ea ullam dolor laborum dolorem.
+                Est sequi quos aliquam expedita quaerat repellendus ducimus voluptatibus alias sed, aliquid rem. Eligendi, non. Odit fugit earum ipsum maiores. Labore dolorum incidunt libero autem. Explicabo, placeat. Repellendus, nihil voluptatibus!
+                Delectus voluptates, quam exercitationem tempore at doloribus ab rerum est veritatis repellendus debitis ex natus impedit eligendi commodi beatae totam adipisci odio? Libero corporis debitis fuga molestias possimus magnam architecto!
+                Mollitia vero velit aliquid magnam! Aspernatur alias iste consectetur harum recusandae rerum maiores officiis quam ratione esse. Accusamus temporibus, nemo voluptatibus veniam consectetur facilis nihil, expedita rerum numquam saepe id?
+                Aperiam dolore enim possimus officia ducimus aut reprehenderit assumenda aliquid earum! Est accusantium iusto, nisi sapiente saepe illum voluptas ad reprehenderit inventore quia reiciendis culpa. Neque non excepturi consequuntur ipsum.</p>
+                
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta amet vero rem reiciendis, perspiciatis explicabo. Quas tempora odit blanditiis necessitatibus quod nulla repudiandae, amet ducimus sit minima beatae ea aliquam?
+                Accusamus ratione totam dolores aut officia quidem doloremque? Voluptatem, ab voluptatum. Neque, voluptatibus incidunt quam hic aspernatur ipsam, quaerat assumenda illo fugiat dolor tenetur quia nam voluptatem libero saepe totam?
+                Officiis, quos assumenda! Dignissimos libero quia sapiente exercitationem quasi modi unde suscipit fugiat accusamus omnis veritatis officiis nemo debitis, doloribus dolore inventore amet laudantium quos possimus natus harum tempore ad!
+                Voluptate hic distinctio assumenda, rerum eaque soluta molestias repellat veniam aliquam, aut voluptatem! Nobis vero, nihil molestiae totam aliquid sapiente itaque ducimus quisquam sit ex et architecto soluta, deleniti magni!
+                Facilis possimus veniam deleniti laudantium eaque tempore molestias nesciunt suscipit quaerat fugiat omnis distinctio quos, saepe nemo rerum a impedit vero quam, aspernatur magni quod excepturi qui sapiente nostrum. Itaque.</p>
+
+            </article>
+        </section>
+
+        <section>
+            <h2>Pato de Minas</h2>
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt soluta, consequuntur ipsa debitis quas ipsam velit minus nobis asperiores temporibus! Voluptatum expedita est iure harum maxime rem cum soluta consectetur.
+            Laudantium quis, porro rerum quia, saepe, neque nesciunt doloribus molestiae nulla corporis explicabo. Ratione, suscipit autem? Totam tenetur, non quisquam accusantium, aspernatur nemo id deleniti adipisci rem quaerat odio autem.
+            Excepturi aliquid itaque at veritatis deleniti assumenda ipsa aperiam, perferendis maxime omnis minus accusantium inventore ullam quo fugiat libero ea porro vitae delectus beatae dolorum? Molestiae ullam doloremque dolorum delectus!
+            Alias dolore excepturi labore natus fugiat placeat totam quod voluptatibus tempora eos. Nostrum atque saepe asperiores ipsum. Optio quo, magni pariatur distinctio quis minus laboriosam nihil cupiditate modi asperiores accusamus!</p>
+
+            <img src="iftm3.jpg" alt="">
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quidem perferendis dolores error voluptate illum alias nemo esse perspiciatis, reprehenderit dicta vel vitae magni quod hic veniam voluptatem molestiae. Labore.
+            Culpa, veniam? Illum molestias earum officiis a, beatae veniam quaerat culpa laudantium eum vel voluptatem, optio at voluptatum perspiciatis enim maxime vitae amet dolorem eaque modi rerum expedita? Accusamus, beatae!
+            Libero nemo explicabo, quas blanditiis possimus totam aspernatur sequi provident ex exercitationem. Ratione corrupti unde ut magni, reiciendis ad earum necessitatibus, illo corporis aperiam consequuntur perferendis consectetur autem asperiores neque?
+            Minus animi vitae maiores eum quis! Repellat ipsum voluptatibus cupiditate repellendus itaque ipsa quam in, beatae voluptatem laudantium nostrum voluptates reiciendis, sit quos atque velit voluptatum reprehenderit earum debitis quae.
+            Magnam commodi molestiae vero dolor rem aspernatur vitae provident, obcaecati perspiciatis placeat deleniti cum impedit quos dolores officia eligendi a illum. Sit, veritatis. Earum consequuntur eveniet minima itaque iste error?</p>
+
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique dolores mollitia repudiandae veritatis dicta facere necessitatibus sint excepturi expedita suscipit architecto maxime adipisci odit officia exercitationem, aliquid, deserunt consequuntur laborum.
+            Iste consectetur molestias et soluta necessitatibus nulla, alias optio tenetur. Totam, unde. Omnis voluptate recusandae aut saepe laudantium praesentium mollitia blanditiis maxime obcaecati quis nesciunt at, libero consequatur necessitatibus totam!
+            Possimus esse illo enim! Vel beatae quo alias corrupti, velit sint cupiditate, harum aliquid reiciendis quisquam quibusdam iste autem vitae tempore laudantium nihil rem ab. Atque laboriosam perspiciatis magni facere.
+            Sed ullam voluptas perspiciatis rerum quidem earum aut, distinctio impedit fugit quo non animi suscipit adipisci at totam omnis delectus beatae minus quibusdam iste quas! Enim quo facilis sapiente deserunt!
+            Rerum culpa fugiat et sapiente id est. Asperiores dignissimos hic quam facere at dolore nobis non, nam tempora praesentium impedit consectetur qui, aut magni itaque dolor repudiandae harum. Non, perferendis?</p>
+
+            <a href="#topo">Voltar ao topo</a>
+        </section>
+    </main>
+    
+    <footer>Rodapé da página</footer>
+</body>
+</html>
