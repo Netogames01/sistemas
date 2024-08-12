@@ -47,7 +47,7 @@ header h1{
     direction: rtl;
     background-color: black;
     padding: 20px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 header h2{
@@ -55,7 +55,7 @@ header h2{
     direction: rtl;
     background-color: gray;
     padding: 20px;
-    font-size: 17px;
+    font-size: 23px;
 }
 
 section{
@@ -76,7 +76,7 @@ section{
 
 }
 section h2{
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     display: inline-block;
             transition: letter-spacing 1s ease;
             letter-spacing: normal;
@@ -87,8 +87,10 @@ section h2:hover{
 }
 
 section ul{
-    padding: 10px;
-    padding-bottom: 30px;
+    
+}
+h2.oi{
+    margin-top: 20px;
 }
 
 .a {
@@ -103,8 +105,9 @@ img {
 }
 
 section p{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 2em;
 }
 
 section ul{
