@@ -1,0 +1,142 @@
+nav a:link,nav a:visited{
+    display: inline-block;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    text-decoration: none;
+    border: 0;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+nav a:active{
+    text-decoration: underline;
+    background-color: white;
+    color: white;
+}
+
+nav li{
+    display: inline-block;
+    background-color: none;
+}
+
+header ul{
+    background-color: #7982FF ;
+    text-align: center;
+}
+
+nav a{
+    border: 0;
+}
+
+body{
+    font-family: Arial;
+    background-color: black;
+    
+}
+* {
+    
+    padding:0px;
+    margin: 0px;
+}
+
+header h1{
+    color: white;
+    direction: rtl;
+    background-color: black;
+    padding: 20px;
+    font-size: 40px;
+}
+
+header h2{
+    color: white;
+    direction: rtl;
+    background-color: gray;
+    padding: 20px;
+    font-size: 23px;
+}
+
+section{
+    background-color: white;
+    margin: 0 100px 0 100px;
+    padding: 30px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+@keyframes letterSpacingExpand {
+    from {
+        letter-spacing: normal;
+    }
+    to {
+        letter-spacing: 10px;
+    }
+
+}
+h2.opa{
+    display: inline-block;
+    transition: letter-spacing 1s ease;
+    letter-spacing: normal;
+}
+
+section h2.opa:hover{
+    letter-spacing: 10px;
+}
+
+section h2{
+    margin-bottom: 20px;
+    
+}
+
+section ul{
+    line-height: 2em;
+}
+h2.oi{
+    margin-top: 20px;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+img {
+    width: 600px;
+}
+
+section p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 2em;
+}
+
+section ul{
+    padding-left: 50px;
+    line-height: 2em;
+}
+
+section a{
+    color: blue;
+}
+
+section a:active{
+    color: blue;
+}
+
+section a:hover{
+    color: blue;
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+}
+
+footer a{
+    color: lightblue;
+}
