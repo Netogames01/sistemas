@@ -1,0 +1,115 @@
+.bg-svg {
+  background-image: url("../images/background-lg.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: top;
+}
+
+@media (max-width: 767.98px) {
+  .bg-svg {
+    background-image: url("../images/background.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  @media (max-width: 480px) {
+    body {
+        font-size: 12px;
+        padding: 10px;
+    }
+}
+}
+
+.border-ifood-red {
+  border-color: #ea1d2c;
+}
+
+.ifood-red {
+  color: #ea1d2c;
+}
+
+.min-height-container {
+  min-height: 30vh;
+}
+
+/* divisao de parte de layout*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+.container {
+  border:2px solid white ;
+  background-color: #EF999C;
+  width: 300px;
+  margin-top: 80px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.formulario h1 {
+  font-size: 25px;
+  color: black;
+  margin: 20px 0 20px 0;
+  font-weight: 600;
+  font-style: italic;
+  
+}
+.formulario a{
+  color: #9B4745;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+  margin-bottom: 25px;
+  padding-right: 100px ;
+  border: none;
+  border-bottom: 1px solid #000000;
+  background-color: #ef999c;
+}
+
+form input:focus{
+  outline: none;
+  border-bottom: 1px solid #000000;
+}
+
+form button {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  margin-top: 10px;
+  width: 200px;
+  padding: 5px;
+  margin: 0 auto;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #e60000;
+}
+.cadastro {
+  text-align: center;        
+}
+
+.cadastro a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+.cadastro p{
+  text-align: center;
+  color: rgba(255, 255, 255, 0.849);
+  font-size: 14px;
+  font-weight: 100;
+  margin: 10px 0 0 ;
+}
